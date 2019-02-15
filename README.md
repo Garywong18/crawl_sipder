@@ -1,2 +1,3 @@
 # crawl_sipder
-创建一个crawlspider
+创建一个crawlspider,自动提取内容详情页链接进行解析，并且自动提取翻页链接进行翻页操作。
+最后将结果保存至MongoDB
